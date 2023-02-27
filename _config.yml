@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JHwan96(이주환)"
 description              : "매일 학습!"
-url                      : "https://jhwan96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://JHwan96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/JHwan96/JHwan96.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

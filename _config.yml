@@ -23,7 +23,7 @@ name                     : "JHwan96(이주환)"
 description              : "매일 학습!"
 url                      : "https://JHwan96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : JHwan96/JHwan96.github.io/
+repository               : "https://github.conm/JHwan96/JHwan96.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
